@@ -1,0 +1,28 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+
+global
+{
+	font-size: 14;
+	font-family: Arial;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	color: #FFFFFF;
+	baseColor:13421772;
+	contentBackgroundColor:#000000;
+	rollOverColor:#6B6B6B;
+	selectionColor:#6B6B6B;
+	focusColor:#6B6B6B;
+	symbolColor:#2E2E2E;
+	backgroundAlpha:1;
+	backgroundSize:auto;
+	slideDuration:300;
+	alignmentBaseline:useDominantBaseline;
+	content-background-alpha: 0.77;
+	chrome-color: #2E2E2E;
+	
+}
+	
